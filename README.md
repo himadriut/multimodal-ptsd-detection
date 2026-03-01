@@ -82,3 +82,24 @@ To ensure reliable evaluation:
 ---
 
 ## Repository Structure
+
+---
+
+## Notes on Data Availability
+
+Due to privacy and licensing restrictions, raw datasets are **not included** in this repository.
+
+This repository provides:
+
+- Data processing pipeline
+- Feature extraction code
+- Model training and evaluation framework
+
+Researchers should obtain datasets independently from their official sources.
+
+---
+
+## Contact
+
+GitHub:  
+https://github.com/himadriut
